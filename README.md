@@ -1,10 +1,15 @@
- Budget-Sales-Analytics
+Budget-Sales-Analytics
+
 Project Title :- Budget Sales Analytics
+
 Technologies :- Data Science
+
 Domain :- Retail & Sales
+
 Project Difficulties level :- Advanced
 
 Problem Statement:- 
+
 Our "Domain Sale" process is structured to help potential buyers purchase the domain they
 want immediately without the hassle of contacting the seller directly. ... A seller lists a domain
 for sale at a specific price in our Marketplace. An interested buyer sees this domain for sale and
